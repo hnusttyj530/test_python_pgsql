@@ -1,0 +1,2 @@
+# test_python_pgsql
+一个采用Python3编程语言连接本地Postgresql数据库的例子。
